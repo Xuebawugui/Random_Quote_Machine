@@ -9,8 +9,6 @@ A modern, stylish Random Quote Machine built with React. Get inspired by a wide 
 - Responsive and modern UI
 - Passes all [freeCodeCamp Random Quote Machine tests](https://freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine)
 
-## Demo
-![screenshot](screenshot.png)
 
 ## Getting Started
 
