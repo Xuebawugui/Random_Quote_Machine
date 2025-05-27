@@ -1,0 +1,11 @@
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', 'Arial', sans-serif;
+  background: #232946;
+  min-height: 100vh;
+}
+.app-bg {
+  min-height: 100vh;
+  transition: background 0.5s;
+} 
